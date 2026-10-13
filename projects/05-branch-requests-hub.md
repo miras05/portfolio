@@ -1,7 +1,8 @@
 # Branch requests hub
 
 **Client:** company with 7 branches across Kazakhstan
-**Status:** working prototype (code is private)
+**Status:** working prototype
+**Code:** [branch-requests-hub](https://github.com/miras05/branch-requests-hub)
 
 ## Problem
 
